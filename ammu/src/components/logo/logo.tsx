@@ -7,8 +7,8 @@ export const Logo = component$(() => {
         <img
           alt="Mia Logo"
           width={400}
-          height={147}
-          src="https://filmdaily.co/wp-content/uploads/2020/09/mia-lede-2.jpg"
+          height={167}
+          src="https://filmdaily.co/wp-content/uploads/2020/09/mia-lede-2.jpg" 
         />
       </a>
     </div>
